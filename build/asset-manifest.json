@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/contador-de-clics/build/static/css/main.219357fa.css",
+    "main.js": "/contador-de-clics/build/static/js/main.6fdd80ea.js",
+    "static/media/logo-betis.png": "/contador-de-clics/build/static/media/logo-betis.7f31ad10926c048796da.png",
+    "index.html": "/contador-de-clics/build/index.html",
+    "main.219357fa.css.map": "/contador-de-clics/build/static/css/main.219357fa.css.map",
+    "main.6fdd80ea.js.map": "/contador-de-clics/build/static/js/main.6fdd80ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.219357fa.css",
+    "static/js/main.6fdd80ea.js"
+  ]
+}

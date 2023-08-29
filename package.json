@@ -2,6 +2,7 @@
   "name": "contador",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://alexander0127.github.io/contador-de-clics/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
